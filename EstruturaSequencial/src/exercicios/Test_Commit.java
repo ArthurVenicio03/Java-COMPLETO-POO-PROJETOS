@@ -5,6 +5,7 @@ public class Test_Commit {
 	public static void main(String[] args) {
 		 
 		System.out.println("Hello");
+		System.out.println("hello test");
 
 	}
 
