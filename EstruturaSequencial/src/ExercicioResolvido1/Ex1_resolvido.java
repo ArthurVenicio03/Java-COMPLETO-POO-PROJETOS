@@ -15,6 +15,8 @@ public class Ex1_resolvido {
 		Double area = Largura * Comprimento;
 		Double valorTotal = area * MetroQuadrado;
 		
+		System.out.println("!!!!!!!!!!!!!");
+		
 		System.out.printf("Area : %.2f%n", area);
 		System.out.printf("preco : %.2f%n", valorTotal);
 	}
